@@ -1,0 +1,15 @@
+output/
+
+.env.*
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.venv/
+venv/
+*.log
+.env
+.scrapy/
